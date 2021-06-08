@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Javernus 
+- 👀 My interests are broad and spread out over many areas, like photo/cinematography, programming, playing piano, gaming, philosophy and reading! 
+- 🌱 I’m currently learning anything and everything I can, like Computer Science on University, but also much at my work at Enreach. 
+- 📫 How to reach me: @JaceBond on Telegram! The other socials know me not.
