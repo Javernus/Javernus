@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Javernus, formally known as Jace or Jake. 
-- 👀 My interests are broad and spread out over many areas, like programming, mathematics, playing piano, gaming, philosophy and reading! I also collect whiskies!
-- 🌱 I’m currently learning anything and everything I can, studying Computer Science at the University of Amsterdam, but also much through my work at Enreach. 
-- 📫 How to reach me: @JaceBond on Telegram! The other socials know me not. 
+I am Jake. I am an avid programmer—lover of types—and much more. Playing piano, photography, writing (and reading) and gaming are some of my other hobbies.
+
+I am a developer with 4+ years of experience in front-end design, being one of the developers and the Product Owner of the design system made at Enreach for their products. 
+I am currently working on my Bachelor Thesis focussed on Quantum Computing and will be continuing with the Quantum Computer Science Master afterwards. 
+In my free time, I write a lot. Be it code or a story, I know my way around a pen. I like learning about many things, and philosophise a lot, too—sometimes even in the realm of a world I am building for a book.
+
+I am passionate in what I do and take life as it comes to me. I am thankful for the many people that guide me and make me strive for betterment of both my character and my skills.
